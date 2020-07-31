@@ -14,6 +14,7 @@ that is best suited for their strategy.
 
 o Country analysis: Identifying the countries which have been the most heavily
 invested in the past. These will be Spark Funds’ favorites as well.
+
 o Sector analysis: Understanding the distribution of investments across the eight
 main sectors.
 Note that they are interested in the eight 'main sectors' provided in
